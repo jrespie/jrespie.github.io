@@ -1,7 +1,7 @@
 # Cat food and body lotion
 ## A story about circumventing process
 
-<img src="/assets/images/2019/04/2019-04-11-01.jpg" align="left" width="280px">
+<img src="/assets/images/2019/04/2019-04-11-01.jpg" class="left" width="280px">
 ##### Groceries.
 We have a process for doing groceries at home.
 
@@ -22,7 +22,7 @@ It couldn't really wait. I didn't bother with the shopping list - I just drove u
 It was an uneventful trip, apart from the self checkout not working, but that's pretty normal for me.
 
 Sorted - our child will not starve. Yay!
-<img src="/assets/images/2019/04/2019-04-11-02.jpg" align="right" width="280px">
+<img src="/assets/images/2019/04/2019-04-11-02.jpg" class="right" width="280px">
 ##### Holidays, day two.
 The next day, we ran out of eggs, and I also noticed we were low on peanut butter.
 
@@ -49,7 +49,7 @@ As she did so, she took a glance at the items in my basket - a box of cat food, 
 
 Then she just looked at me - in this pitying kind of way, a look that said "where did your life go wrong?"
 
-<img src="/assets/images/2019/04/2019-04-11-03.jpg" align="left" width="300px">
+<img src="/assets/images/2019/04/2019-04-11-03.jpg" class="left" width="300px">
 
 Maybe she thought I was going to go home, feed my cat, and then give it a nice lotiony massage?
 
