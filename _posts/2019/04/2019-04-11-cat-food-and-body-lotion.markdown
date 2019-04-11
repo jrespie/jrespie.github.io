@@ -1,3 +1,5 @@
+<meta name="twitter:image" content="/assets/images/2019/04/2019-04-11-01.jpg" />
+
 # Cat food and body lotion
 ## A story about circumventing process
 
