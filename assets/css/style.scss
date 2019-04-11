@@ -2,3 +2,14 @@
 ---
 
 @import "jekyll-theme-slate";
+
+img.avatar {
+	border: none;
+	box-shadow: none;
+	margin-top: -40px;
+}
+
+p img {
+	margin: 10px;
+	box-shadow: 0 0 5px #a4a4a4
+}
