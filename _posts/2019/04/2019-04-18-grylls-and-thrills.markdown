@@ -1,3 +1,7 @@
+---
+title: Grylls and Thrills
+description: Using systematic and speculative tracking to solve software problems
+---
 
 # Grylls and Thrills
 ## Using systematic and speculative tracking to solve software problems

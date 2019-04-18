@@ -1,3 +1,7 @@
+---
+title: Cat Food and Body Lotion
+description: A story about circumventing process
+---
 # Cat food and body lotion
 ## A story about circumventing process
 
