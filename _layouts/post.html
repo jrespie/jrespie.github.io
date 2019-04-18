@@ -9,7 +9,16 @@ css: post.css
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/post.css?v=' | append: site.github.build_revision | relative_url }}">
+	<meta name="twitter:site"    content="@jamesespie">
+	<meta name="twitter:title"   content="{{ page.title }}">
 
+	{% if page.summary %}
+	<meta name="twitter:description" content="{{ page.summary }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+	<meta name="twitter:card"  content="summary">
+	<meta name="twitter:image" content="{{ site.title_image }}">
 {% seo %}
   </head>
 
