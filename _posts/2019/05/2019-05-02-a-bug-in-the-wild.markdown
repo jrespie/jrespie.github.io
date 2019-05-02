@@ -1,3 +1,7 @@
+---
+title: "A bug in the wild"
+description: Paying a zero dollar bill
+---
 # A bug in the wild
 ## Paying a zero dollar bill
 
