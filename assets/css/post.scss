@@ -21,6 +21,14 @@ p img.left {
 p img.right {
 	float: right;
 }
+
+p img.center {
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 ul {
 	list-style: disc;
 }
