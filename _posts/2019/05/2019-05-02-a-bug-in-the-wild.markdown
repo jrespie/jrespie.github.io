@@ -67,3 +67,4 @@ But I have a bill due before the promotion ends. I'll try the app again then. Wi
 ##### Footnotes
 * The good folk over in the [MoT Auckland Slack group](https://wetestauckland.slack.com/join/shared_invite/enQtNDY3OTQyMTg0MTgyLWRmMGY0Mzk0OTZkNTU0NjM4MDNjNTg2ZDMyODMzZTc0ZjJkMzQ4OTNkNzY2ODUxMjUzODE3MmIyZThhNDRlMjY) helped me flesh out my thoughts on this. They're good people, you should join in the fun.
 * It's probably easy to work out whose app it is in the gif above. If you work it out, please don't be too harsh or go telling the whole world. We all have bugs.
+* I *did* also report this bug to the company in question, who have passed it on to their dev team.
