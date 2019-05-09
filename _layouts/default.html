@@ -7,15 +7,21 @@
 	<meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	<meta name="twitter:site"    content="@jamesespie">
-	<meta name="twitter:title"   content="test default">
+	<meta name="twitter:title"   content="JPie}">
 
-	{% if page.summary %}
-	<meta name="twitter:description" content="test 23">
-	{% else %}
-	<meta name="twitter:description" content="test test">
-	{% endif %}
+	<meta name="twitter:description" content="A blog by James Espie">
 	<meta name="twitter:card"  content="summary">
-	<meta name="twitter:image" content="/assets/images/avatar_new.jpg">
+	<meta name="twitter:image" content="http://jpie.nz/assets/images/avatar_new.png">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32956210-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-32956210-1');
+	</script>
+
 {% seo %}
   </head>
 
