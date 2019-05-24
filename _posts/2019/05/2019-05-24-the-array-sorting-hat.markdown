@@ -85,6 +85,8 @@ So, for each emoji in emojiData, we will
 * Look for the creator's name in the creatorData array using `findIndex()`
 	* If it _can't_ be found, `push()` a new record to the creatorData array with a count of 1
 	* If it _can_ be found, increment the count on the record by 1
+
+Now, the creatorData array will be full of useful data! But, it's not in any sort of order.
 <hr/>
 ### Step 3 - The array sorting hat
 <img src="/assets/images/2019/05/2019-05-24-sorting-hat.gif" class="center" width="400px">
