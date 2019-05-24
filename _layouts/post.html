@@ -14,7 +14,11 @@ css: post.css
 
 	<meta name="twitter:description" content="{{page.description}}">
 	<meta name="twitter:card"  content="summary">
-	<meta name="twitter:image" content="http://jpie.nz/assets/images/avatar_new.png">
+	{% if page.image %}
+		<meta name="twitter:image" content="{{page.image}}">
+	{% else %}
+		<meta name="twitter:image" content="http://jpie.nz/assets/images/avatar_new.png">
+	{% endif %}
 {% seo %}
   </head>
 
