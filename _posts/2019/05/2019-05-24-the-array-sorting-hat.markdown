@@ -1,6 +1,7 @@
 ---
 title: The array sorting hat
 description: Making a Chrome extension, part two
+image: /assets/images/2019/05/2019-05-24-logo.jpeg
 ---
 # The array sorting hat
 ## Making a Chrome extension, part two
