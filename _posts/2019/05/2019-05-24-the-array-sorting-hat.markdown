@@ -88,7 +88,7 @@ So, for each emoji in emojiData, we will
 ### Step 3 - The array sorting hat
 <img src="/assets/images/2019/05/2019-05-24-sorting-hat.gif" class="center" width="400px">
 
-There's a nice JavaScript function that will help us sort the array.
+There's a nice JavaScript function that will help us sort the creatorData array.
 
 ##### array.sort()
 array.sort() accepts a 'compare' fuction as an argument.
