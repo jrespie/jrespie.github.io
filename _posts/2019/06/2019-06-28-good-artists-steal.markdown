@@ -1,7 +1,7 @@
 ---
 title: Good Artists Steal
 description: Making a Chrome extension, part three
-image: http://jpie.nz/assets/images/2019/06/2019-06-28-cage-avatar.png
+image: http://jpie.nz/assets/images/2019/06/2019-06-28-cage-avatar.jpg
 ---
 # {{page.title}}
 ## {{page.description}}
