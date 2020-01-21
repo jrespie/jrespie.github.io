@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 Hi!
-I'm James Espie, I'm a software tester, amongst other things.
+I'm James Espie, I'm a software tester, based in Auckland, New Zealand.
 
-I'll level with you, I don't know what this blog is about, just yet.
+I'm also a speaker, coach, mentor, and a bunch of other things. I love testing, and helping others achieve their goals.
 
-I just want to make sure I have a place to post stuff as and when I want to.
+This is my website, where you'll find my blog, which is updated whenever I get bursts of inspiration.
 
-Thanks for stopping by anyway!
+Thanks for stopping by!
