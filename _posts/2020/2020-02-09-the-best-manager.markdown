@@ -19,7 +19,7 @@ Here are some of the qualities that I felt made her my best manager ever.
 #### Constant, candid feedback
 Cheryl was always really quick to give feedback, both negative and positive.
 
-<img src="/assets/images/2020/02/2020-02-09-02.png" class="right" width="180px" style="margin-left:0px"><img src="/assets/images/2020/02/2020-02-09-01.png" class="right" width="180px" style="margin-right:0px"> Feedback came in a way only she could deliver. Loud, and highly animated.
+<img src="/assets/images/2020/02/2020-02-09-01b.png" class="right" width="360px"> Feedback came in a way only she could deliver. Loud, and highly animated.
 When it was negative, there would be swearing, and arms flailing.
 When it was positive, there would be laughs, encouragement, and fist pumping.
 
