@@ -21,7 +21,7 @@ Here's a screenshot:
 
 
 Anyway, the shopping cart experience was pretty normal, I clicked the 'buy' button, and waited.
-
+<hr/>
 #### An alarming email
 A few minutes later, I got an 'order being processed' email.
 The address seemed a bit funky:
@@ -39,6 +39,7 @@ But:
 * If it _does_ get lost, well - have you ever tried to get NZPost to compensate you for lost mail? It's not straight forward.
 
 So, **<font color="red">engage panic mode</font>**.
+<hr/>
 #### Help me, Marco
 
 I reached out to their support team. Support is via live chat - again, mixed feelings.
@@ -49,6 +50,7 @@ Twelve minutes later, the support agent (Marco) confirmed:
 Whew. So - the address in the system is correct - it's just wrong in the email.
 That's that, right?
 
+<hr/>
 #### Another email
 
 Later that evening, another email, this time 'order shipped'.
@@ -61,6 +63,7 @@ At this point though, I'm not overly worried. Marco assured me the address was c
 And, sure enough, the package arrived the next day - addressed _pretty much_ correctly.
 <img src="/assets/images/2020/02/2020-02-23-bug-04.JPG" class="center" width="460px">
 
+<hr/>
 #### It still turned up... so... 
 
 <img src="/assets/images/2020/02/2020-02-23-03.png" class="right" width="280px">
