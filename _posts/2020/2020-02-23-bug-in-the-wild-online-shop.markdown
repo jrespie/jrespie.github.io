@@ -59,7 +59,7 @@ The address is wrong again! This time, the suburb is correct, but the city is mi
 At this point though, I'm not overly worried. Marco assured me the address was correct - but also, it's shipped now. There's nothing I can do. Here's hoping.
 
 And, sure enough, the package arrived the next day - addressed _pretty much_ correctly.
-<img src="/assets/images/2020/02/2020-02-23-bug-04.jpg" class="center" width="460px">
+<img src="/assets/images/2020/02/2020-02-23-bug-04.JPG" class="center" width="460px">
 
 #### It still turned up... so... 
 
