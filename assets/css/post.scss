@@ -47,6 +47,9 @@ li {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	p img.hideonmobile {
+		display: none;
+	}
 }
 
 header>a:hover {
