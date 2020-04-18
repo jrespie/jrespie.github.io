@@ -83,7 +83,7 @@ To my mind, this is how 'office politics' is born. It makes for a yuck place to 
 #### Career goals for managers
 
 I've found this part a bit hard to write. I started by saying that managers shouldn't have their own career goals - that their interest should be that of the team.
-On reflection, that's a unfair. It's important for managers to have goals too.
+On reflection, that's unfair. It's important for managers to have goals too.
 
 My issue, really, is seeing managers put their _own_ interests ahead of their teams.
 
