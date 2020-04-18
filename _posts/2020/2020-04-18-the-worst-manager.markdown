@@ -83,10 +83,14 @@ To my mind, this is how 'office politics' is born. It makes for a yuck place to 
 #### Career goals for managers
 
 I've found this part a bit hard to write. I started by saying that managers shouldn't have their own career goals - that their interest should be that of the team.
-On reflection, that's a bit unfair. My issue, really, is seeing managers put their _own_ interests ahead of their teams.
+On reflection, that's unfair. It's important for managers to have goals too.
 
-I like it when a manager makes it clear that their goal is to help the team achieve _their_ goals.
+My issue, really, is seeing managers put their _own_ interests ahead of their teams.
 
-A good manager, to me, puts their team first. A bad one puts themselves first.
+I like it when a manager makes it clear that their number one goal is to help the team achieve _their_ goals.
+That can mean other goals of theirs get sacrificed. I don't think it's unfair to ask a manager to do that, in the interest of their team. I feel like it's part of the job.
+
+So to summarise: A good manager, to me, puts their team first.
+A bad one puts themselves first.
 
 And that's all I've got to say about that. Thanks for reading, I hope you found it a little bit useful!
