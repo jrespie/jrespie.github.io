@@ -11,7 +11,7 @@ image: http://jpie.nz/assets/images/2020/05/2020-05-04.png
 Today's challenge is:
 > Explore the output of your applications analytics, how can they help guide your testing?
 
-Mixpanel is our analytics tool of choice - it tells us a bunch about user behaviour.
+[Mixpanel](https://mixpanel.com/) is our analytics tool of choice - it tells us a bunch about user behaviour.
 
 I don't want to go and reveal all the analytics we have in Mixpanel. But, I thought I'd go ahead and learn how it's implemented - the same way I did for Prometheus in the last video.
 
