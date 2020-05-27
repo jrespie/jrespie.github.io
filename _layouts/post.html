@@ -20,9 +20,11 @@ css: post.css
 		<meta name="twitter:image" content="http://jpie.nz/assets/images/avatar_new.png">
 	{% endif %}
 {% seo %}
+<script src="/scripts/mixpanel.js"></script>
+<script>var pagetitle = "{{ page.title }}"</script>
   </head>
 
-  <body>
+<body onload="mixpanel.track(pagetitle)">
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
