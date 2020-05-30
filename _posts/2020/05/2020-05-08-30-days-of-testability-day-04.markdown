@@ -1,7 +1,7 @@
 ---
 title: Increasing testability by increasing customer empathy
 description: 30 days of Testability, day four
-image: http://jpie.nz/assets/images/2020/05/2020-05-04.png
+image: http://jpie.nz/assets/images/2020/05/2020-05-08-empathy.png
 ---
 # {{page.title}}
 ## {{page.description}}
