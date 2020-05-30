@@ -1,7 +1,7 @@
 ---
 title: What is Testability?
 description: 30 days of Testability, day one
-image: http://jpie.nz/assets/images/2020/05/2020-05-04.png
+image: http://jpie.nz/assets/images/2020/05/2020-05-01-30-days.png
 ---
 # {{page.title}}
 ## {{page.description}}

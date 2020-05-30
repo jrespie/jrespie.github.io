@@ -1,7 +1,7 @@
 ---
 title: Improving testability by using mixpanel for analytics
 description: 30 days of Testability, day six
-image: http://jpie.nz/assets/images/2020/05/2020-05-04.png
+image: http://jpie.nz/assets/images/2020/05/2020-05-13-mixpanel.png
 ---
 # {{page.title}}
 ## {{page.description}}
