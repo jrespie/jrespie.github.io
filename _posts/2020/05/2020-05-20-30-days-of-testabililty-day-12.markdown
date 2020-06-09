@@ -6,15 +6,16 @@ image: http://jpie.nz/assets/images/2020/05/2020-05-20-quiz.png
 # {{page.title}}
 ## {{page.description}}
 
-#### Circuit breakers and science experiments
+#### Circuit breakers
 
 Today's exercise:
 > Decomposability is an important part of testability. Complete our circuit breakers testing exercise over on The Club!
 
-The 'circuit breakers' exercise is to take a piece of software, and see how you might use a circuit breaker to it.
+The 'circuit breakers' exercise is to take a piece of software, and see how you might apply a 'circuit breaker' to it.
 
-I like to think of a circuit breaker in electronics. If there is a fault detected in a circuit (like an overload), interrupt what the circuit is doing.
-We can do the same thing in software. Run a function, but if a fault is detected, do something else.
+Circuit breakers are a concept borrowed from electronics. If there is a fault detected in a circuit (like an overload), interrupt what the circuit is doing. This minimises any damage caused.
+
+We can do the same thing in software. Run a function, but if a fault is detected, stop running that function (and do something else).
 
 This is really useful for testing - it means you can test something in production, and have a failsafe if it goes awry!
 
