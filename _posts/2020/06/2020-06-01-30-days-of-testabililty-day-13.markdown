@@ -32,3 +32,6 @@ Specifically, I learned the value of small talk, when it comes to digital humans
 I hope that was interesting for you, I know it was for me. Thanks for watching, and thanks Tyler for taking part!
 
 See y'all for the next one!
+
+#### COVID-19
+Oh, and if you want to check out a digital human for yourself, take a look at the [COVID-19 demo](https://covid19.us.digitalhumans.com/) that Tyler mentioned in the vid. Chur!
