@@ -1,7 +1,7 @@
 ---
 title: "A bug in the wild"
 description: My amazing tax refund
-image: http://jpie.nz/assets/images/2019/06/2019-06-10-logo.png
+image: https://jpie.nz/assets/images/2019/06/2019-06-10-logo.png
 ---
 # {{page.title}}
 ## {{page.description}}

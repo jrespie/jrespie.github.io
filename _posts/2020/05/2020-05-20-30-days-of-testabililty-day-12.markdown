@@ -1,7 +1,7 @@
 ---
 title: Testing in production using circuit breakers
 description: 30 days of Testability, day twelve
-image: http://jpie.nz/assets/images/2020/05/2020-05-20-quiz.png
+image: https://jpie.nz/assets/images/2020/05/2020-05-20-quiz.png
 ---
 # {{page.title}}
 ## {{page.description}}

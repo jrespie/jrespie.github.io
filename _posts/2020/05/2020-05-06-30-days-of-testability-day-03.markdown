@@ -1,7 +1,7 @@
 ---
 title: Read a book about Testability
 description: 30 days of Testability, day three
-image: http://jpie.nz/assets/images/2020/05/2020-05-06-testbook.png
+image: https://jpie.nz/assets/images/2020/05/2020-05-06-testbook.png
 ---
 # {{page.title}}
 ## {{page.description}}

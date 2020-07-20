@@ -1,7 +1,7 @@
 ---
 title: Testability and application logs
 description: 30 days of Testability, day two
-image: http://jpie.nz/assets/images/2020/05/2020-05-04-cloudwatch.png
+image: https://jpie.nz/assets/images/2020/05/2020-05-04-cloudwatch.png
 ---
 # {{page.title}}
 ## {{page.description}}

@@ -1,7 +1,7 @@
 ---
 title: Save to read later - leap days and lockdowns
 description: Neat things from around the internet. Today - leap days and lockdowns
-image: http://jpie.nz/assets/images/2020/04/2020-04-24-avatar.png
+image: https://jpie.nz/assets/images/2020/04/2020-04-24-avatar.png
 ---
 # {{page.title}}
 ## {{page.description}}
