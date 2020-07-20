@@ -4,25 +4,28 @@ title: Coaching
 permalink: /coaching/
 ---
 
-# Coaching and mentoring
+# Mentoring and Coaching
 
 Hi!
 
-If you're interested in receiving some coaching or mentoring, I can help.
+So - you're ready to take the next step in your career? Need help overcoming some obstacles? Want some guidance from someone who's been doing this for a while?
 
-I've been testing at various companies around Auckland for the past fifteen years, and have a broad range of experience to draw upon.
+**I can help!**
 
-I enjoy helping junior and intermediate level testers reach the next level in their careers.
+<hr/>
 
-I can help you:
-* Set and achieve goals to help further your career in testing
-* Get new perspectives on your approach to testing
-* Sharpen your existing skillset, and learn new skills
+As a **mentor**, I can work with you to **set goals for your career** and map out a path towards achieving them.
 
-Interested?
+As your **coach**, we can take practical steps towards **sharpening your existing skillset**, and learning new skills.
 
-A one hour session is **\$50** (employed) or **\$30** (unemployed) - introductory session is free. ($NZD)
+I can help you build out your professional network, and work with you to overcome any difficulties you're facing.
+
+I'm geniunely driven by helping people. **I get a kick out of seeing other testers succeed.** Let me help you be awesome!
+
+<hr/>
+
+A one hour session is \$NZD60 (employed) or \$NZD30 (unemployed) - but your introductory session is **free**. No obligations or anything.
 
 We can meet in person if you're in Auckland, or over your preferred video chat tool.
 
-Reach out to me at jamesespie@gmail.com and let's get started!
+Reach out to me at <a href="mailto:james@jpie.nz">james@jpie.nz</a> and let's get started!
