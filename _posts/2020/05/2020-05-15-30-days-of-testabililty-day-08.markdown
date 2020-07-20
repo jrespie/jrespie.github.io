@@ -1,7 +1,7 @@
 ---
 title: Learning about testability from others
 description: 30 days of Testability, day eight
-image: http://jpie.nz/assets/images/2020/05/2020-05-15-tale-of-testability.jpeg
+image: https://jpie.nz/assets/images/2020/05/2020-05-15-tale-of-testability.jpeg
 ---
 # {{page.title}}
 ## {{page.description}}

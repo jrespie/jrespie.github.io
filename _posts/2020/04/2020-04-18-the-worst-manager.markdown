@@ -1,7 +1,7 @@
 ---
 title: My worst manager
 description: Who's the worst manager you've ever had?
-image: http://jpie.nz/assets/images/2020/04/2020-04-18-avatar.jpg
+image: https://jpie.nz/assets/images/2020/04/2020-04-18-avatar.jpg
 ---
 # {{page.title}}
 ## {{page.description}}

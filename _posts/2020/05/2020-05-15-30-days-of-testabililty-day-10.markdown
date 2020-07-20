@@ -1,7 +1,7 @@
 ---
 title: Talking about tweets about testability
 description: 30 days of Testability, day ten
-image: http://jpie.nz/assets/images/2020/05/2020-05-17-tweets.jpeg
+image: https://jpie.nz/assets/images/2020/05/2020-05-17-tweets.jpeg
 ---
 # {{page.title}}
 ## {{page.description}}

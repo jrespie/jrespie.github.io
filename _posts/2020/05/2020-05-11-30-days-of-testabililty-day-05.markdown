@@ -1,7 +1,7 @@
 ---
 title: Monitoring with Prometheus
 description: 30 days of Testability, day five
-image: http://jpie.nz/assets/images/2020/05/2020-05-11-prometheus.png
+image: https://jpie.nz/assets/images/2020/05/2020-05-11-prometheus.png
 ---
 # {{page.title}}
 ## {{page.description}}

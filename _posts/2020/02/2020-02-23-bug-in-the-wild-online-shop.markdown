@@ -1,7 +1,7 @@
 ---
 title: "A bug in the wild"
 description: A postcode panic
-image: http://jpie.nz/assets/images/2020/02/2020-02-23-logo.png
+image: https://jpie.nz/assets/images/2020/02/2020-02-23-logo.png
 ---
 # {{page.title}}
 ## {{page.description}}

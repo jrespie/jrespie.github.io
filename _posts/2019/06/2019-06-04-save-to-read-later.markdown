@@ -1,7 +1,7 @@
 ---
 title: "Save to read later"
 description: Neat things from around the internet. Today - canaries, art and budgets.
-image: http://jpie.nz/assets/images/2019/06/2019-06-04-edge.png
+image: https://jpie.nz/assets/images/2019/06/2019-06-04-edge.png
 ---
 # {{page.title}}
 ## {{page.description}}

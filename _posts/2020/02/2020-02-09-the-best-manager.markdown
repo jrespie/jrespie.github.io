@@ -1,7 +1,7 @@
 ---
 title: My best manager
 description: Who's the best manager you ever had?
-image: http://jpie.nz/assets/images/2020/02/2020-02-09-avatar.png
+image: https://jpie.nz/assets/images/2020/02/2020-02-09-avatar.png
 ---
 # {{page.title}}
 ## {{page.description}}
