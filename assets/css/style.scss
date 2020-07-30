@@ -22,3 +22,14 @@ img.right {
 	float: right;
 	margin-right: 30%;
 }
+
+ul.listWithVisibleBullets {
+	list-style: disc;
+}
+ul.listWithVisibleBullets > li {
+	margin-top: 10px;
+}
+
+b {
+	font-weight: bold;
+}

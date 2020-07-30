@@ -10,17 +10,26 @@ Hi!
 
 So - you're ready to take the next step in your career? Need help overcoming some obstacles? Want some guidance from someone who's been doing this for a while?
 
-**I can help!**
-
 <hr/>
 
-As a **mentor**, I can work with you to **set goals for your career** and map out a path towards achieving them.
+**I can help!**
+<ul class="listWithVisibleBullets">
 
-As your **coach**, we can take practical steps towards **sharpening your existing skillset**, and learning new skills.
+<li>As a <b>mentor</b>, I can work with you to <b>set goals for your career</b> and map out a path towards achieving them.</li>
 
-I can help you build out your professional network, and work with you to overcome any difficulties you're facing.
+<li>As your <b>coach</b>, I can guide you with practical steps towards <b>sharpening your existing skillset</b>, and learning new skills.</li>
 
-I'm geniunely driven by helping people. **I get a kick out of seeing other testers succeed.** Let me help you be awesome!
+<li>I can help you build out your professional network, and work with you to overcome any difficulties you're facing.</li>
+
+<li>I'm geniunely driven by helping people. <b>I get a kick out of seeing other testers succeed.</b> Let me help you be awesome!</li>
+</ul>
+<hr/>
+
+> What's the difference between mentoring and coaching? 
+> 
+> *Mentoring* is usually longer term, looks at the big picture, helps you set career goals and a plan to achieve them.
+> 
+> *Coaching* is usually shorter term, and more specific - like helping you learn a new skill
 
 <hr/>
 
