@@ -1,5 +1,5 @@
 ---
-title: Customer success becomes testing success
+title: Customer success leads to testing success
 description: 30 days of Testability, day twenty-eight
 image: /assets/images/2020/10/2020-10-02-pair.png
 ---
