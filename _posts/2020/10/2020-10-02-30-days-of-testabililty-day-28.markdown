@@ -1,5 +1,5 @@
 ---
-title: Pair testing with customer support
+title: Customer success becomes testing success
 description: 30 days of Testability, day twenty-eight
 image: /assets/images/2020/10/2020-10-02-pair.png
 ---
