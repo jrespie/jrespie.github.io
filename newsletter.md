@@ -8,6 +8,8 @@ permalink: /newsletter/
 
 ## Previous editions
 
+Oct 05, 2020 🥧 [Pie mail - sunshine edition](https://ckarchive.com/b/o8ukhqhxvgzv){:target="_blank"}
+
 Sep 21, 2020 🥧 [Pie mail - vacation edition](https://ckarchive.com/b/qdu8h7hen34r){:target="_blank"}
 
 Sep 04, 2020 🥧 [Pie mail - first edition](https://ckarchive.com/b/5quvh7h3z2r8){:target="_blank"}
