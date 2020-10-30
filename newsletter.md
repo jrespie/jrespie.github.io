@@ -8,6 +8,8 @@ permalink: /newsletter/
 
 ## Previous editions
 
+Oct 19, 2020 🥧 [Pie mail - cyber smart edition](https://ckarchive.com/b/r8u8hohkppn9){:target="_blank"}
+
 Oct 05, 2020 🥧 [Pie mail - sunshine edition](https://ckarchive.com/b/o8ukhqhxvgzv){:target="_blank"}
 
 Sep 21, 2020 🥧 [Pie mail - vacation edition](https://ckarchive.com/b/qdu8h7hen34r){:target="_blank"}
