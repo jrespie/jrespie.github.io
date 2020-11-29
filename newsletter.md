@@ -8,7 +8,9 @@ permalink: /newsletter/
 
 ## Previous editions
 
-Nov 02, 2020 🥧 [Pie mail - hallowe'en edition](https://ckarchive.com/b/gkunh5hrox32)
+Nov 16, 2020 🥧 [Pie mail - illustrated edition](https://ckarchive.com/b/8kuqhohzor9o){:target="_blank"}
+
+Nov 02, 2020 🥧 [Pie mail - hallowe'en edition](https://ckarchive.com/b/gkunh5hrox32){:target="_blank"}
 
 Oct 19, 2020 🥧 [Pie mail - cyber smart edition](https://ckarchive.com/b/r8u8hohkppn9){:target="_blank"}
 
