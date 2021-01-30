@@ -1,7 +1,7 @@
 ---
 title: Goals unachieved
 description: Managing and achieving goals... or not
-image: https://jpie.nz/assets/images/2021/01/2021-03-01-avatar.jpg
+image: https://jpie.nz/assets/images/2021/01/2021-01-30-avatar.jpg
 ---
 # {{page.title}}
 ## {{page.description}}
