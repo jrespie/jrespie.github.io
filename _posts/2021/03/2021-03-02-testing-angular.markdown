@@ -46,7 +46,7 @@ Angular apps have this cool in built function that will tell you if the app is '
 Unsurprisingly, the function is called `isStable()`, and it returns true or false.
 Depending on the app, you can even run it from the browser console in Chrome.
 
-Why not try it? JetBlue.com use Angular. If you head to their site, open the dev console and run:
+Why not try it? [JetBlue.com](https://www.jetblue.com/) use Angular. If you head to their site, open the dev console and run:
 ```
 window.getAngularTestability(document.querySelector('body > jb-app')).isStable();
 ```
