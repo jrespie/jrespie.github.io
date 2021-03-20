@@ -1,0 +1,64 @@
+body {
+    background: #f6f7f8;
+    background-color: #fff;
+    margin: 20;
+    padding: 20;
+    position: relative;
+    color: #212121;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+li {
+    white-space: normal;
+    list-style: none;
+    padding: 0;
+    border-top: 1px solid rgba(46,62,72,.12);
+    display: block;
+    border-bottom: 2px solid;
+    margin: 0;
+}
+
+.visibility--a11yHide {
+    border: 0;
+    clip: rect(0 0 0 0);
+    position: absolute;
+    overflow: hidden;
+    margin: -1px;
+    padding: 0;
+    width: 1px;
+    height: 1px;
+}
+
+.avatar {
+    background-color: #e4e9ed;
+    background-position: center 42%;
+    color: transparent;
+    display: inline-block;
+    font-size: 0;
+    height: 100px;
+    position: relative;
+    text-indent: 100%;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 100px;
+    border-radius:50px;
+}
+
+.avatar-print {
+    display: none;
+    position: relative;
+}
+
+.member-avatar {
+    float: left;
+}
+
+.member-item {
+    position: relative;
+    height: 100px;
+    padding-left: 150px;
+}
+
