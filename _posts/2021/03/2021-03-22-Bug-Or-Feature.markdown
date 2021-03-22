@@ -7,7 +7,7 @@ image: /assets/images/2021/03/2021-03-22-thumbnail.jpeg
 <hr/>
 ## {{page.description}}
 
-In my last newsletter, I asked this question:
+In my last [newsletter](https://jpie.nz/newsletter), I asked this question:
 
 > I went to watch a **Manchester United** game on Spark Sport, and this happened:<video width="640" height="480" controls><source src="/assets/images/experimental/IMG_3652b.mp4" type="video/mp4"></video>
 > 
