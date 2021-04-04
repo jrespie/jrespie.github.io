@@ -37,3 +37,12 @@ b {
 .menu {
 	font-weight: bold;
 }
+
+.alert {
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: red;
+	background-color: rgb(250, 209, 209);
+}
