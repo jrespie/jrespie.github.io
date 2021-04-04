@@ -6,6 +6,10 @@ permalink: /coaching/
 
 # Mentoring and Coaching
 
+
+<div class="alert"><b>Currently unavailable.</b><br/>
+All my coaching slots are filled! I will update this page when a slot becomes available.</div>
+
 Hi!
 
 So - you're ready to take the next step in your career? Need help overcoming some obstacles? Want some guidance from someone who's been doing this for a while?
