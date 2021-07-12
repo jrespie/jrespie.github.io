@@ -7,8 +7,8 @@ permalink: /coaching/
 # Mentoring and Coaching
 
 
-<div class="alert"><b>Currently unavailable.</b><br/>
-All my coaching slots are filled! I will update this page when a slot becomes available.</div>
+<!--<div class="alert"><b>Currently unavailable.</b><br/>
+All my coaching slots are filled! I will update this page when a slot becomes available.</div>-->
 
 Hi!
 
