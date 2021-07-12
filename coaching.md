@@ -37,7 +37,7 @@ So - you're ready to take the next step in your career? Need help overcoming som
 
 <hr/>
 
-A one hour session is \$NZD60 (employed) or \$NZD30 (unemployed) - but your introductory session is **free**. No obligations or anything.
+A one hour session is \$NZD100 (employed) or \$NZD50 (unemployed) - but your introductory session is **free**. No obligations or anything.
 
 We can meet in person if you're in Auckland, or over your preferred video chat tool.
 
