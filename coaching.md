@@ -39,6 +39,8 @@ So - you're ready to take the next step in your career? Need help overcoming som
 
 A one hour session is \$NZD100 (employed) or \$NZD50 (unemployed) - but your introductory session is **free**. No obligations or anything.
 
-We can meet in person if you're in Auckland, or over your preferred video chat tool.
+~~We can meet in person if you're in the Bay of Plenty, or over your preferred video chat tool.~~
+
+We can't meet in person given the current state of lockdown, so everything will be done by either Hangouts or Zoom!
 
 Reach out to me at <a href="mailto:james@jpie.nz">james@jpie.nz</a> and let's get started!
